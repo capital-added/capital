@@ -1,5 +1,5 @@
 <html>
-    <body style="background-color:grey;font-family:sans-serif;">
+    <body style="background-color:grey;font-family:sans-serif;animation: ani 2.5s forwards;">
     <header>
     <h1 style="background-color:blue;">Здравствуйте! Вы получите 1000 рублей завтра если зарегистрируетесь</h1>
     </header>
